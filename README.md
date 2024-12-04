@@ -1,4 +1,4 @@
-# Task Manager
+# Task Management Dashboard
 
 A task management dashboard built using React, Redux and Tailwind CSS.
 
