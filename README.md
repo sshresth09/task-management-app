@@ -35,6 +35,8 @@ npm install
 npm run dev
 ```
 
-<li>Open browser and go to url: [http://localhost:5174](http://localhost:5174/). You can see the app running now.
+<li>Open browser and go to url: 
+  
+  [localhost](http://localhost:5174/). You can see the app running now.
 </ol>
 
